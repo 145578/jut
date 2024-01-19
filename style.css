@@ -1,0 +1,73 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color:LightBlue; 
+    text-align:left;
+    padding: 12px;
+}
+
+h1 {
+    text-align: center;
+    color: DarkBlue;
+    background-color: LightBlue;
+}
+ 
+.adres {
+    background-color: chartreuse;
+    padding: 6px;
+}
+.tl {
+    background-color: chartreuse;
+    padding: 6px;
+}
+.am {
+    background-color: chartreuse;
+    padding: 6px;
+}
+
+footer {
+    text-align: center;
+}
+
+nav a {
+    margin:20px;
+     padding: 5px;
+    font-size:20px ;
+    text-decoration: none ;
+    color: white;
+    border:3px colib navy;
+    border-radius: 30px;
+    background-color: navy;
+}
+
+.gh {
+    background-color: white;
+    color: royalblue;
+}
+
+.vb {
+    background-color: cadetblue;
+    padding: 3px;
+    border-radius: 12px;
+}
+
+.ty {
+    text-align: center;
+    color:cadetblue;
+}
+.bm {
+    font-size: 30px;
+}
+.op {
+    font-size: 30px;
+    text-align: center;
+    color: darkblue;
+}
+.sd {
+    border: 7px colid blue;
+}
+.f {
+    text-align: center;
+}
